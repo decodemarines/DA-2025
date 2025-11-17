@@ -1,0 +1,181 @@
+Date,Product,Units Sold,Price
+01/01/2023,Tablet F,13,499
+01/01/2023,Smartphone A,3,299
+02/01/2023,Laptop B,10,799
+03/01/2023,Laptop B,10,799
+03/01/2023,Smartphone A,3,299
+04/01/2023,Smartphone A,4,299
+05/01/2023,Laptop B,14,799
+07/01/2023,Tablet F,4,499
+10/01/2023,Laptop B,11,799
+10/01/2023,Smartwatch D,8,199
+10/01/2023,Smartwatch D,16,199
+11/01/2023,Laptop B,7,799
+12/01/2023,Smartwatch D,14,199
+12/01/2023,Smartwatch D,2,199
+14/01/2023,Smartwatch D,16,199
+15/01/2023,Gaming Console E,,
+15/01/2023,Laptop B,3,799
+17/01/2023,Gaming Console E,8,399
+18/01/2023,Tablet F,18,499
+20/01/2023,Tablet F,17,499
+20/01/2023,Smartphone A,16,299
+22/01/2023,Laptop B,12,799
+24/01/2023,Smartphone A,13,299
+24/01/2023,Gaming Console E,6,399
+25/01/2023,Smartwatch D,14,199
+26/01/2023,Tablet F,15,499
+26/01/2023,Smartphone A,14,299
+29/01/2023,Tablet F,8,499
+30/01/2023,Smartwatch D,14,199
+31/01/2023,Gaming Console E,19,399
+01/02/2023,Smartwatch D,10,199
+01/02/2023,Smartphone A,9,299
+02/02/2023,Laptop B,4,799
+02/02/2023,Tablet F,14,499
+02/02/2023,Smartwatch D,16,199
+04/02/2023,Tablet F,3,499
+05/02/2023,Headphones C,17,59
+06/02/2023,Smartphone A,5,299
+06/02/2023,Gaming Console E,5,399
+06/02/2023,Tablet F,1,499
+08/02/2023,Headphones C,14,59
+08/02/2023,Laptop B,13,799
+09/02/2023,Tablet F,4,499
+10/02/2023,Smartwatch D,7,199
+11/02/2023,Laptop B,1,799
+12/02/2023,Headphones C,8,59
+12/02/2023,Tablet F,8,499
+12/02/2023,Headphones C,10,59
+13/02/2023,Headphones C,13,59
+13/02/2023,Tablet F,8,499
+17/02/2023,Gaming Console E,6,399
+17/02/2023,Smartphone A,13,299
+18/02/2023,Smartphone A,1,299
+18/02/2023,Headphones C,14,59
+19/02/2023,Smartwatch D,8,199
+20/02/2023,Smartwatch D,7,199
+21/02/2023,Gaming Console E,5,399
+23/02/2023,Smartwatch D,5,199
+23/02/2023,Laptop B,14,799
+27/02/2023,Smartwatch D,18,199
+28/02/2023,Tablet F,15,499
+28/02/2023,Laptop B,18,799
+03/03/2023,Smartwatch D,14,199
+04/03/2023,Smartwatch D,6,199
+07/03/2023,Laptop B,1,799
+09/03/2023,Smartphone A,12,299
+09/03/2023,Tablet F,9,499
+10/03/2023,Laptop B,16,799
+11/03/2023,Smartphone A,5,299
+12/03/2023,Gaming Console E,14,399
+14/03/2023,Smartphone A,15,299
+14/03/2023,Tablet F,7,499
+14/03/2023,Laptop B,9,799
+17/03/2023,Headphones C,19,59
+19/03/2023,Smartphone A,18,299
+19/03/2023,Smartwatch D,2,199
+20/03/2023,Tablet F,2,499
+21/03/2023,Smartphone A,4,299
+21/03/2023,Smartwatch D,2,199
+22/03/2023,Smartwatch D,18,199
+23/03/2023,Laptop B,12,799
+24/03/2023,Headphones C,5,59
+24/03/2023,Smartphone A,11,299
+24/03/2023,Laptop B,15,799
+26/03/2023,Smartphone A,10,299
+27/03/2023,Laptop B,18,799
+28/03/2023,Laptop B,2,799
+28/03/2023,Headphones C,10,59
+29/03/2023,Smartphone A,8,299
+29/03/2023,Tablet F,10,499
+30/03/2023,Smartphone A,3,299
+30/03/2023,Smartwatch D,11,199
+02/04/2023,Smartwatch D,17,199
+04/04/2023,Tablet F,10,499
+05/04/2023,Gaming Console E,4,399
+05/04/2023,Smartwatch D,10,199
+06/04/2023,Headphones C,16,59
+06/04/2023,Gaming Console E,7,399
+07/04/2023,Gaming Console E,7,399
+09/04/2023,Laptop B,2,799
+09/04/2023,Headphones C,8,59
+10/04/2023,Tablet F,11,499
+10/04/2023,Smartwatch D,10,199
+11/04/2023,Smartwatch D,11,199
+13/04/2023,Headphones C,4,59
+14/04/2023,Tablet F,16,499
+15/04/2023,Smartphone A,19,299
+16/04/2023,Tablet F,2,499
+18/04/2023,Tablet F,13,499
+20/04/2023,Gaming Console E,12,399
+21/04/2023,Smartphone A,19,299
+23/04/2023,Laptop B,9,799
+23/04/2023,Smartphone A,3,299
+24/04/2023,Laptop B,9,799
+25/04/2023,Smartwatch D,18,199
+25/04/2023,Tablet F,7,499
+26/04/2023,Gaming Console E,17,399
+26/04/2023,Gaming Console E,5,399
+28/04/2023,Laptop B,2,799
+28/04/2023,Laptop B,1,799
+30/04/2023,Gaming Console E,11,399
+01/05/2023,Smartwatch D,18,199
+02/05/2023,Headphones C,12,59
+02/05/2023,Tablet F,10,499
+02/05/2023,Gaming Console E,7,399
+04/05/2023,Smartwatch D,12,199
+06/05/2023,Smartwatch D,14,199
+08/05/2023,Gaming Console E,1,399
+08/05/2023,Smartphone A,17,299
+08/05/2023,Gaming Console E,4,399
+08/05/2023,Gaming Console E,19,399
+09/05/2023,Gaming Console E,17,399
+09/05/2023,Smartphone A,19,299
+09/05/2023,Tablet F,17,499
+09/05/2023,Laptop B,3,799
+11/05/2023,Tablet F,12,499
+12/05/2023,Smartphone A,18,299
+12/05/2023,Laptop B,6,799
+13/05/2023,Gaming Console E,6,399
+14/05/2023,Smartwatch D,5,199
+19/05/2023,Headphones C,4,59
+20/05/2023,Smartphone A,16,299
+21/05/2023,Smartwatch D,15,199
+21/05/2023,Gaming Console E,9,399
+22/05/2023,Tablet F,5,499
+23/05/2023,Smartwatch D,8,199
+23/05/2023,Tablet F,16,499
+24/05/2023,Tablet F,12,499
+28/05/2023,Gaming Console E,7,399
+28/05/2023,Headphones C,7,59
+29/05/2023,Smartphone A,4,299
+29/05/2023,Gaming Console E,9,399
+29/05/2023,Laptop B,17,799
+30/05/2023,Tablet F,8,499
+30/05/2023,Smartwatch D,3,199
+01/06/2023,Gaming Console E,4,399
+02/06/2023,Smartwatch D,2,199
+04/06/2023,Smartphone A,1,299
+05/06/2023,Smartwatch D,11,199
+07/06/2023,Headphones C,10,59
+12/06/2023,Smartwatch D,1,199
+13/06/2023,Headphones C,7,59
+13/06/2023,Tablet F,9,499
+13/06/2023,Smartphone A,6,299
+14/06/2023,Headphones C,14,59
+15/06/2023,Headphones C,19,59
+17/06/2023,Tablet F,9,499
+19/06/2023,Laptop B,5,799
+19/06/2023,Smartwatch D,4,199
+20/06/2023,Headphones C,7,59
+22/06/2023,Smartphone A,14,299
+24/06/2023,Laptop B,5,799
+24/06/2023,Smartphone A,5,299
+24/06/2023,Smartphone A,19,299
+24/06/2023,Headphones C,1,59
+25/06/2023,Tablet F,18,499
+27/06/2023,Headphones C,13,59
+28/06/2023,Smartwatch D,2,199
+30/06/2023,Gaming Console E,11,399
+30/06/2023,Headphones C,3,59
